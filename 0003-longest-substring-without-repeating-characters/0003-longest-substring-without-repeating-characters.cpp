@@ -1,7 +1,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        
+        //string
         int l = 0;
         int r = 0;
         int ans=0;
