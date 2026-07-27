@@ -1,21 +1,16 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        //string
-        int first = 0;
-        int second = 0;
-
+        int f=0;
+        int s=0;
         for(int x : nums){
-
-            if(x > first){
-                second = first;
-                first = x;
-            }
-            else if(x > second){
-                second = x;
+            if(x>f){
+                s=f;
+                f=x;
+            }else if(x>s){
+                s=x;
             }
         }
-
-        return (first-1)*(second-1);
+    return (f-1)*(s-1);
     }
 };
