@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codedBySonu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/codedBySonu/LeetCode/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
