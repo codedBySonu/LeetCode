@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/codedBySonu/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codedBySonu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/codedBySonu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/codedBySonu/LeetCode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -21,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/codedBySonu/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codedBySonu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/codedBySonu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/codedBySonu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/codedBySonu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codedBySonu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -41,4 +43,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/codedBySonu/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/codedBySonu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
