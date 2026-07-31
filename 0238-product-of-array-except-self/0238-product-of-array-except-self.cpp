@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         vector<int>pre(n);
         vector<int>post(n);
-        vector<int>ans;
+        vector<int>ans(n);
         pre[0]=1;
         post[n-1]=1;
         for(int i=1;i<n;i++){
@@ -14,10 +14,8 @@ public:
             post[i]=post[i+1]*nums[i+1];
         }
         for(int i=0;i<n;i++){
-            ans.push_back(pre[i]*post[i]);
+            ans[i]=pre[i]*post[i];
         }
-
-
     return ans;
     }
 };
