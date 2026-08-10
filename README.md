@@ -8,11 +8,13 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/codedBySonu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/codedBySonu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/codedBySonu/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/codedBySonu/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codedBySonu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/codedBySonu/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/codedBySonu/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -30,6 +32,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/codedBySonu/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/codedBySonu/LeetCode/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codedBySonu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
