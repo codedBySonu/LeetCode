@@ -3,17 +3,13 @@ public:
     vector<string> ans;
 
     void solve(string &s, int index, int parts, string curr) {
-
-        // We need exactly 4 parts
         if(parts == 4) {
             if(index == s.size()) {
-                curr.pop_back(); // remove last '.'
+                curr.pop_back(); 
                 ans.push_back(curr);
             }
             return;
         }
-
-        // Try taking 1, 2, or 3 digits
         for(int len = 1; len <= 3; len++) {
 
             // Not enough characters left
