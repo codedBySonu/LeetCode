@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/codedBySonu/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codedBySonu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/codedBySonu/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/codedBySonu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/codedBySonu/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/codedBySonu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/codedBySonu/LeetCode/tree/master/0217-contains-duplicate) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/codedBySonu/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/codedBySonu/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/codedBySonu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/codedBySonu/LeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codedBySonu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/codedBySonu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -64,6 +66,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/codedBySonu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0093-restore-ip-addresses](https://github.com/codedBySonu/LeetCode/tree/master/0093-restore-ip-addresses) |
 ## Divide and Conquer
 |  |
@@ -85,4 +88,13 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/codedBySonu/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/codedBySonu/LeetCode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/codedBySonu/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/codedBySonu/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
