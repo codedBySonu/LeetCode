@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/codedBySonu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codedBySonu/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/codedBySonu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/codedBySonu/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0058-length-of-last-word](https://github.com/codedBySonu/LeetCode/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/codedBySonu/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/codedBySonu/LeetCode/tree/master/0242-valid-anagram) |
+| [1796-second-largest-digit-in-a-string](https://github.com/codedBySonu/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
