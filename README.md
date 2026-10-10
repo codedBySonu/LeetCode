@@ -39,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/codedBySonu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/codedBySonu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/codedBySonu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/codedBySonu/LeetCode/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codedBySonu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codedBySonu/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -48,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/codedBySonu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codedBySonu/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/codedBySonu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/codedBySonu/LeetCode/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codedBySonu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
