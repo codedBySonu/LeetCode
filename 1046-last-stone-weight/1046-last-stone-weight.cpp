@@ -11,13 +11,11 @@ public:
         int y=pq.top();
         pq.pop();
         if(x!=y){
-            pq.push(x-y);
-        }
+            pq.push(x-y);}
     }
     if(pq.empty()){
         return 0;
     }
-
     return pq.top();
     }
 };
