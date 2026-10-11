@@ -41,6 +41,7 @@
 | [0238-product-of-array-except-self](https://github.com/codedBySonu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/codedBySonu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/codedBySonu/LeetCode/tree/master/0414-third-maximum-number) |
+| [1046-last-stone-weight](https://github.com/codedBySonu/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codedBySonu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codedBySonu/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -58,6 +59,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/codedBySonu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/codedBySonu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/codedBySonu/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codedBySonu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
