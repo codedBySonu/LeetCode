@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/codedBySonu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codedBySonu/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/codedBySonu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/codedBySonu/LeetCode/tree/master/0621-task-scheduler) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codedBySonu/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
@@ -41,6 +42,7 @@
 | [0238-product-of-array-except-self](https://github.com/codedBySonu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/codedBySonu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/codedBySonu/LeetCode/tree/master/0414-third-maximum-number) |
+| [0621-task-scheduler](https://github.com/codedBySonu/LeetCode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/codedBySonu/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/codedBySonu/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codedBySonu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -54,6 +56,7 @@
 | [0242-valid-anagram](https://github.com/codedBySonu/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/codedBySonu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/codedBySonu/LeetCode/tree/master/0414-third-maximum-number) |
+| [0621-task-scheduler](https://github.com/codedBySonu/LeetCode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/codedBySonu/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codedBySonu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -61,6 +64,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/codedBySonu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/codedBySonu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/codedBySonu/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/codedBySonu/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/codedBySonu/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/codedBySonu/LeetCode/tree/master/1046-last-stone-weight) |
@@ -96,6 +100,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codedBySonu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/codedBySonu/LeetCode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -148,4 +153,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/codedBySonu/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/codedBySonu/LeetCode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
