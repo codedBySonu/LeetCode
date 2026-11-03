@@ -46,6 +46,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/codedBySonu/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/codedBySonu/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codedBySonu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/codedBySonu/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codedBySonu/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/codedBySonu/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/codedBySonu/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codedBySonu/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
 |  |
