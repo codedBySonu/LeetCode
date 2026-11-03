@@ -8,9 +8,6 @@ public:
             sum+=nums[i];
             mx=max(mx,nums[i]);
         }
-        int ans=(mx*(n-1))-(sum-mx);
-
-
-    return ans;    
+    return (mx*(n-1))-(sum-mx);    
     }
 };
